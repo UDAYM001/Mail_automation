@@ -55,7 +55,7 @@ Uday
 
 
 # 🔐 Your Gmail credentials
-sender_email = "udaymanchu001@gmail.com"           # Replace with your Gmail
+sender_email = "admin1@gmail.com"           # Replace with your Gmail
 password = "eluc wrzq skue ddaq"     # Replace with your Gmail App Password (no spaces)
 
 # ✅ Send email to all recipients
