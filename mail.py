@@ -40,14 +40,11 @@ emails = [
 
 
 # ✉️ Email subject and body
-subject = "i am a data center batch student from wipro"
+subject = "Reminder: Team Meeting"
 body = """
-Hello,
+Hello team,
 
-i have few doubs on the sections and the meetings 
-those who know telugu reply back to this mail there is only two members
-in my batch " im am 16th batch " i want to clarify about the log sheets 
-modules, and the rps kindly reply to this main if any one who knows telugu
+This is a reminder for the weekly meeting tomorrow at 10 AM.
 
 Regards,
 Uday
